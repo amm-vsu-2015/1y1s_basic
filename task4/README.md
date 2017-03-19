@@ -7,5 +7,6 @@
 Вывести только четные слова, в которых нет повторяющихся букв.
 
 Входные данные для проверки:
-  1abc 2bca 3abc 4abc 5abc 6acc 7abb 8aabc 9aabc
-  abc bca abc abc abc acc abb aabc aabc
+
+- 1abc 2bca 3abc 4abc 5abc 6acc 7abb 8aabc 9aabc
+- abc bca abc abc abc acc abb aabc aabc
